@@ -51,7 +51,6 @@ export default class UserScreen extends React.Component {
                 this.setState({
                     user: user,
                     
-                    
                 });
             }
         });
