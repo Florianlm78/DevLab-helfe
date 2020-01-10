@@ -1,4 +1,20 @@
-# Helfe 
+# Helfe
+
+Pour lancer l'application, faites "npm install"
+
+Puis "expo start"
+
+Installez xcode sur votre ordinateur
+
+Ensuite vous allez être redirigé vers une page puis clickez sur Run on iOS simulator
+
+L'application va se lancer sur votre ordinateur
+
+
+Dans l'application, j'ai créer un compte déjà existant. Si vous voulez le tester, l'adresse mail est : "flo78480@hotmail.fr" et le mot de passe est "Test01"
+
+
+---------------------------------------------------------
   
 **Table of Contents** 
 
